@@ -5,3 +5,15 @@ axis.log
 day03spring.iml
 day03spring_01account/*.iml
 day03spring_01account/target
+day03spring_01account02/*.iml
+day03spring_01account02/target
+day03spring_01account03/*.iml
+day03spring_01account03/target
+day03spring_02proxy/*.iml
+day03spring_02proxy/target
+day03spring_03springAOP/*.iml
+day03spring_03springAOP/target
+day03spring_04adviceType/*.iml
+day03spring_04adviceType/target
+day03spring_05annotationAOP/*.iml
+day03spring_05annotationAOP/target

@@ -10,6 +10,12 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>day03spring_01account</module>
+        <module>day03spring_01account02</module>
+        <module>day03spring_01account03</module>
+        <module>day03spring_02proxy</module>
+        <module>day03spring_03springAOP</module>
+        <module>day03spring_04adviceType</module>
+        <module>day03spring_05annotationAOP</module>
     </modules>
 
 
